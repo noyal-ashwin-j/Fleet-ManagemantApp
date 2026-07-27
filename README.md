@@ -319,10 +319,12 @@ public class FleetAppMain {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,8 +333,21 @@ public class FleetAppMain {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
