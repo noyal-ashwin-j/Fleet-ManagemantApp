@@ -318,6 +318,7 @@ public class FleetAppMain {
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -345,6 +346,7 @@ public class FleetAppMain {
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
