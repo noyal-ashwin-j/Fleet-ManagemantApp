@@ -344,12 +344,14 @@ public class FleetAppMain {
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0367-valid-perfect-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/noyal-ashwin-j/Fleet-ManagemantApp/tree/main/0367-valid-perfect-square/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
